@@ -41,19 +41,6 @@ These datasets are stored inside the `datasets/` folder.
 - Data Cleaning Techniques
 
 
-## Project Structure
-
-Employee-SQL-Data-Analysis/
-│
-├── datasets/
-├── Cleaning_data_file.sql
-├── Select_Statement.sql
-├── Insert_Statement.sql
-├── Delete_Statement.sql
-├── Aggregate_Function.sql
-└── Analysis.sql
-
-
 ## Learning Outcome
 
 Through this project, I strengthened my understanding of:
